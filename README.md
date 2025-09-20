@@ -1,7 +1,7 @@
 Hi My name is Mohamed Hossam
 ======================================================================================================================================
 
-Fresh Software Engineer | Machine Learning Enthusiast ^\_^
+Software Engineer | Machine Learning Enthusiast ^\_^
 <img align=right alt="coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 ----------------------------------------------------------
 
