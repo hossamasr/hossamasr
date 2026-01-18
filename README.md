@@ -1,17 +1,15 @@
 Hi My name is Mohamed Hossam
 ======================================================================================================================================
 
-Software Engineer | Machine Learning Enthusiast ^\_^
-<img align=right alt="coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+Software Engineer | ComputerScience Enthusiast ^\_^
 ----------------------------------------------------------
 
-Enthusiastic and driven Software Engineer with a B.Sc. in Computer Engineering, passionate about building systems and solving real-world problems with code. Experienced in crafting full-stack applications, deploying ML models, and developing end-to-end AI solutions using Python, FastAPI, PyTorch, Docker, and C++. Built and contributed to multiple impactful projects—from ecommerce platforms to custom GPT models and fraud detection engines. Strong foundation in algorithms, data structures, and system design, complemented by a collaborative mindset and a passion for continuous learning. Actively growing through hands-on work.
+I'm a Software Engineer focused on building reliable backend systems and tackling complex data problems through systems-level thinking. I believe in understanding technology from first principles—whether that's database internals, OS-level optimizations, or the math behind transformers.
 
 * 🌍  I'm based in Egypt (able to relocate)
 * ✉️  You can contact me at [hossamasrw@gmail.com](mailto:hossamasrw@gmail.com)
 * 🚀  I'm currently working on [WEB Ecommerce](http://https://github.com/hossamasr/making-some-endpoints)
-* 🧠  I'm learning MERN
-* ⚡  side note : don't like kaggle or notebooks ^\_^
+* ⚡  side note : don't like notebooks ^\_^
 
 ### Skills
 
