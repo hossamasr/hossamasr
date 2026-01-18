@@ -4,7 +4,7 @@ Hi My name is Mohamed Hossam
 Software Engineer | ComputerScience Enthusiast ^\_^
 ----------------------------------------------------------
 
-I'm a Software Engineer focused on building reliable backend systems and tackling complex data problems through systems-level thinking. I believe in understanding technology from first principles—whether that's database internals, OS-level optimizations, or the math behind transformers.
+I'm a Software Engineer focused on building reliable backend systems and tackling complex data problems through systems level thinking. I believe in understanding technology from first principles whether that's database internals, OS-level optimizations, or the math behind transformers.
 
 * 🌍  I'm based in Egypt (able to relocate)
 * ✉️  You can contact me at [hossamasrw@gmail.com](mailto:hossamasrw@gmail.com)
