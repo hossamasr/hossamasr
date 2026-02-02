@@ -25,10 +25,4 @@ I'm a Software Engineer focused on building reliable backend systems and tacklin
 
 ### Badges
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/hossamasr/Group_Activity_Recognition_CVPR" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamasr&repo=Group_Activity_Recognition_CVPR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hossamasr/mini-rag" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamasr&repo=mini-rag&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/hossamasr/making-some-endpoints" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamasr&repo=making-some-endpoints&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/hossamasr/nano-gpt2-124m" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hossamasr&repo=nano-gpt2-124m&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
