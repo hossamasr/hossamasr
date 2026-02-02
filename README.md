@@ -9,8 +9,6 @@ I'm a Software Engineer focused on building reliable backend systems and tacklin
 * 🌍  I'm based in Egypt (able to relocate)
 * ✉️  You can contact me at [hossamasrw@gmail.com](mailto:hossamasrw@gmail.com)
 * 🚀  I'm currently working on [WEB Ecommerce](http://https://github.com/hossamasr/making-some-endpoints)
-* ⚡  side note : don't like notebooks ^\_^
-
 ### Skills
 
 
